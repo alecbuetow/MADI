@@ -1,6 +1,6 @@
 # Maternal Immunization and Determinants of Infant Immunity (MADI) Project
 
-## Showcase of the Publicly Available Graphics I have created
+## Showcase of the Publicly Available Graphics I have Created
 
 ### Correlation Heatmap + Scatter Plots Combination
 
